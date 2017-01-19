@@ -1,0 +1,5 @@
+PublicIPFileWriter/publish/
+packages/
+PublicIPFileWriter/obj/
+PublicIPFileWriter/bin/
+PublicIPFileWriter/PublicIPFileWriter_TemporaryKey.pfx
